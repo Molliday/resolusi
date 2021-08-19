@@ -1,0 +1,7 @@
+RENCANA KONTEN
+
+- Video Javascript
+  * ES6
+  * ES7
+- PHP
+- Interview
